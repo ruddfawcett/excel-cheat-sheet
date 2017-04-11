@@ -56,6 +56,15 @@ Gives the maximum value from a range.
 ```
 Gives the minimum value from a range.
 
+## Graphs
+
+### Slope
+```
+=SLOPE(data_y, data_x)
+```
+
+Calculates the slope of the line resulting from linear regression of a dataset.
+
 ## Relative vs. Absolute References
 In Excel, Google Sheets, etc. there are two different types of references: relative and absolute.
 
